@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>form_tags</title>
+</head>
+<body>
+    <form>
+        <label> Name </label>
+        <input type="text" required id="Name"> <br> <br>
+        <label> Email</label>
+        <input type="text"required id="Email"> <br> <br>
+        <label> Phone </label>
+        <input type="text"required id="Phone"> <br> <br>
+        <input type = "submit">
+    </form>
+    <br>
+    <label>skills </label> <br> <br>
+    <input type="checkbox" required id="java">
+    <label for="java"> java</label> <br> <br>
+    <input type="checkbox" required id="sql">
+    <label for="sql"> sql</label> <br> <br>
+
+
+    <label> Gender</label> <br> <br>
+    <input type="Radio" required id="Male" name="gender">
+    <label for="Male"> Male</label>
+    <input type="Radio" required id="Female" name="gender">
+    <label for="Female"> Female</label>
+    <input type="Radio" required id="others" name="gender">
+    <label for="others"> others</label>
+    <br>
+    <br>
+    <input type="submit">
+
+    <br>
+    <br>
+<label> Year of graduation</label>
+<input list="YOG">
+<datalist id="YOG">
+<option> 2020</option>
+<option> 2021</option>
+<option> 2022</option>
+<option> 2023</option>
+<option> 2024</option>
+<option> 2025</option>
+</datalist>
+
+<br>
+<br>
+<label for="uname"> Username</label>
+<input type="text" required id ="uname" pattern="[a-zA-Z]{3,8}">
+<br>
+<br>
+<input type="submit">
+<br>
+<br>
+<label for="phone">phone number</label>
+<input type="text" required id="phone" pattern="[6-9]{1}[0-9]{9}">
+<br>
+<br>
+<input type ="submit">
+
+<br>
+<br>
+<label for=""> Email</label>
+<input type="email" id="email" required pattern ="[a-z0-9_.]+@[a-z]+.[a-z]{2,}"><br><br>
+<input type ="submit">
+</body>
+</html>
