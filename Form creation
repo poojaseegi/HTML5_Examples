@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  
+ 
+    <form>
+        <fieldset>
+       <legend>Login page</legend>
+       <label for="user name"> UserName:</label> 
+       <input id ="username"/>
+       <br>
+       <br>
+       <label for="password">Password:</label>
+       <input id="password"/>
+       <br><br/>
+       <label type="email">Email:</label>
+       <input id ="email"/>
+       <br><br>
+       <label type="tel">Tel:</label>
+       <input id ="tel"/>
+              <br><br>
+       <label for="color">Color</label>
+       <input id="color"/>
+              <br><br>
+       <label for="date">Date:</label>
+       <input id="date"/>
+              <br><br>
+       <label for="file">File</label>
+       <input id="file"/>
+              <br><br>
+       <label for="hidden">Hidden:</label>
+       <input id="hidden"/>
+              <br><br>
+       <label for="month">Month:</label>
+       <input id="month"/>
+              <br><br>
+       <label for="number">Number:</label>
+       <input id="number"/>
+              <br><br>
+       <label for="range">Range:</label>
+       <input id="range"/>
+              <br><br>
+       <label for="time">Time:</label>
+       <input id="time"/>
+              <br><br>
+       <h3> Gender</h3>
+       male <input type="radio" name="gender"/>
+        female<input type="radio" name="gender"/>
+       </fieldset>
+    </form>
+    </body>
+
+
+
+</html>
