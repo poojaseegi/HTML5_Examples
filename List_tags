@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>COMPUTER PRIMARY COMPONENT</h1>
+    <ol>
+    <li>input device </li>
+    <ol>
+      <li>direct input</li>  
+      <ul>
+        <li>scanner</li>
+    </ul>
+      <li>indirect input</li>
+      <ul>
+        <li>keyboard</li>
+        <li>mouse</li>
+      </ul>
+    </ol>
+    <li>output device</li>
+    <ol>
+      <li>monitor</li>
+      <ul>
+        <li>CRT monitor</li>
+        <li>LCD monitor</li>
+      </ul>
+    </ol>
+      
+    <ol>
+        <li>speaker</li>
+        
+        </ol>
+    <li> processing device</li>
+    <ol>
+        <li>ALU</li>
+        <ul>
+            <li>arithmatic unit</li>
+            <li>logic unit</li>
+        </ul>
+        <li>CU</li>
+    </ol>
+    <li>storage device</li>
+    <ol>
+        <li>primary storage</li>
+        <ul>
+            <li>RAM</li>
+            <ul>
+                <li type="I">SRAM</li>
+                <li type="I">DRAM</li>
+            </ul>
+        </ul>
+    </ol>
+    </ol>
+    
+
+</body>
+</html>
+
+</html>
