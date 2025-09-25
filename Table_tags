@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <br>
+    <br>
+    <center> FOODMENU</center>
+
+    <br>
+    <br>
+    <br>
+    <center>
+    <table border="1" cellspaceing="10px" cellpadding="20px">
+        <tr>
+            <td>
+                <img src ="https://www.indianhealthyrecipes.com/wp-content/uploads/2019/04/veg-biryani-recipe-500x500.jpg " height="100" width="200">
+            </td>
+              
+              <td>
+                <img src =" https://www.milkmaid.in/sites/default/files/2022-12/Chocolate-Ice-Cream-335x300.jpg" height="100" width="200">
+            </td>
+                   
+            <td>
+                <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs9rna1yGj7MajCk2m1OR9KTorz6nbJ7kdyw&s " height="100" width="200">
+            </td>
+            </tr>
+              <tr>
+            <td>
+                <img src =" https://imgmediagumlet.lbb.in/media/2024/12/6763c390ad5b133601d57eed_1734591376530.jpg" height="100" width="200">
+            </td>
+                        <td>
+                <img src =" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqHV1nXDtVap3P113xV67fR0ZpzM3CzfK4wA&s" height="100" width="200">
+            </td>
+                        <td>
+                <img src ="https://www.foodandwine.com/thmb/DI29Houjc_ccAtFKly0BbVsusHc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/crispy-comte-cheesburgers-FT-RECIPE0921-6166c6552b7148e8a8561f7765ddf20b.jpg" height="100" width="200">
+            </td>
+            </tr>
+             <td>
+                <img src ="https://i.ytimg.com/vi/zAlNAPsupvs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBpnJSA0vMqfoITbisjZyjgZ340zg " height="100" width="200">
+            </td>
+                        <td>
+                <img src =" https://cf-img-a-in.tosshub.com/sites/visualstory/stories/2023_02/story_23845/assets/2.jpeg?time=1677220418" height="100" width="200">
+            </td>
+                        <td>
+                <img src ="https://cookingfromheart.com/wp-content/uploads/2022/05/Best-Dry-Fruit-Lassi-500x500.jpg " height="100" width="200">
+            </td>
+            </tr>
+            </table>
+        <tr></tr>
+    </table>
+</center>
+
+
+</body>
+</html>
