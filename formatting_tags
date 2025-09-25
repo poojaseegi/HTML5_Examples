@@ -1,0 +1,21 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>formatting_tags</title>
+</head>
+<body>
+    <p><u>Lorem ipsum</u> dolor sit amet consectetur adipisicing elit. </p>
+    <p> this is <b>full stack developer</b> who knows hoe to create web pages or websites</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. In et, <i>repudiandae vero</i> neque vitae odio consequuntur</p>
+    <p>Lorem ipsum dolor sit amet, consectetur <mark>adipisicing elit</mark> Fuga iste nulla labore ad omnis molestiae at reprehenderit aliquam</p>
+     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, culpa? Molestias ipsum consequuntur porro<sub> perferendis</sub> alias</p>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. <sup>Obcaecati</sup> dicta corrupti expedita dolores, distinctio, est amet unde </p>
+<p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. <small>Fuga, molestiae</small> libero accusamus possimus porro tempore, ipsum sit repudiandae numquam </p>
+<p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim quis expedita, illo libero tenetur <big>praesentium</big> necessitatibus</p>
+<p> eligendi nam illo <s>repellat!</s> Ratione officiis repellat asperiores distinctio suscipit.</p>
+</body>
+</html>
