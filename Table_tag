@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body><table border>
+    <caption> Student_details</caption>
+    <tr>
+        <th > student name</th>
+        <th> student id</th>
+        <th> age</th>
+        <th> gender</th>
+    </tr>
+    <tr>
+        <td> pooja seegi</td>
+        <td> 90</td>
+        <td> 23</td>
+        <td> female</td>
+    </tr>
+    <tr>
+        <td>prashant</td>
+        <td> 52</td>
+        <td> 25</td>
+        <td> male</td>
+    </tr>
+    <tr>
+        <td> shwetha</td>
+        <td> 67</td>
+        <td> 21</td>
+        <td> female</td>
+    </tr>
+    </table>
+</body>
+</html>
