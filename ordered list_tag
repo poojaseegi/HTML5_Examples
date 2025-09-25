@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ordered list
+    </title>
+</head>
+<body>
+    <ol type = "1">
+        <li> input device</li>
+    
+    <ol type = "a">
+        <li> direct input</li> 
+    
+        <ul type ="square"><li> scanner</li></ul>
+    </ul>
+    <li>indirect input</li>
+    <ul type ="square">
+        <li>keyboard</li>
+        <li> mouse</li>
+    </ul>
+</ol>
+        <li> Output device</li>
+    </ol>
+    <ol type = "a">
+        <li> monitor</li> 
+    
+        <ul type ="square"><li> CRT monitor</li>
+          <li> LCD monitor</li></ul>
+    <li> Speaker</li>
+    
+    </ol>
+    
+        <li>Processing  device</li>
+    </ol>
+    <ol type = "a">
+        <li>ALU</li> 
+    
+        <ul type ="square"><li> arithemetic unit</li>
+   <li>LOgic unit</li></ul>
+    <li>CU</li>
+    
+</ol>
+
+
+        <li>Storage device</li>
+    <ol type = "a">
+        <li>primary stroage</li> 
+    
+        <ul type ="square"><li>RAM</li></ul>
+    
+    <ol type ="I">
+           <li>SRAM</li>
+             <li>DRAM</li>
+    </ul>
+</ol>
+    </body>
+</html>
